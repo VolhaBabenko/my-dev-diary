@@ -1,7 +1,7 @@
 # 📊 PROGRESS TRACKER
 
 ## Current Status
-- **Total Commits:** 13/50
+- **Total Commits:** 14/50
 - **Days Completed:** 12
 - **Completion:** 24%
 - **Last Updated:** Day 12
@@ -23,7 +23,7 @@
 | 11 | Python Intro | 11 | ✅ |
 | 12 | Python Variables | 12 | ✅ |
 | 13 | | | 13 |✅
-| 14 | | | ⬜ |
+| 14 | | | 14 |
 | 15 | | | ⬜ |
 | 16 | | | ⬜ |
 | 17 | | | ⬜ |
